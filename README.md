@@ -1,5 +1,5 @@
+[![dbForge](https://raw.githubusercontent.com/devart-dbforge/assets/refs/heads/main/dbforge_cover.png)](https://www.devart.com/dbforge/)
 
-![dbForge](https://raw.githubusercontent.com/devart-dbforge/assets/refs/heads/main/dbforge_cover.png)
 
 # Welcome to dbForge 
 
@@ -40,8 +40,6 @@ Alternatively, you may use the completely **free Express Editions** of dbForge p
 
 ### Get in touch with the team
 
-**Feature ideas.** Tell us what features you'd like to see in future dbForge versions at https://devart.uservoice.com/
-  
 **Community help.** Join the discussion forum to ask questions and find valuable tips about dbForge: https://support.devart.com/portal/en/community/database-tools
 
 **Contact us.** Use the contact form to report bugs or ask anything about licensing, purchases, downloads, and more: https://www.devart.com/company/contactform.html
