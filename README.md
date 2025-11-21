@@ -1,6 +1,5 @@
 [![dbForge](https://raw.githubusercontent.com/devart-dbforge/assets/refs/heads/main/dbforge_cover.png)](https://www.devart.com/dbforge/)
 
-
 # Welcome to dbForge 
 
 [dbForge](https://www.devart.com/dbforge/) is an AI-powered ecosystem that simplifies and automates database lifecycle management, covering all of its stages from design and development to testing, deployment, and administration.
