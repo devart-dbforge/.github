@@ -1,4 +1,4 @@
-[![dbForge](https://raw.githubusercontent.com/devart-dbforge/assets/refs/heads/main/dbforge_cover.png)](https://www.devart.com/dbforge/)
+[![dbForge](https://raw.githubusercontent.com/devart-dbforge/assets/refs/heads/main/dbforge_top_cover.png)](https://www.devart.com/dbforge/)
 
 # Welcome to dbForge 
 
